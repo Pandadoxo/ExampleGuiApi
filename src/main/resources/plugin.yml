@@ -1,0 +1,6 @@
+name: Main
+version: '${project.version}'
+main: de.pandadoxo.guiapi.example.Main
+api-version: 1.18
+authors: [ Pandadoxo ]
+description: An example plugin for the GUIApi by Pandadoxo
