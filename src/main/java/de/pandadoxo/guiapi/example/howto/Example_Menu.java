@@ -63,6 +63,9 @@ public class Example_Menu {
             menu.addButton(button); // don't forget to actually add the button to the menu
         });
 
+        // final fill
+        menu.fill(); // Only required if you use .setOnFill
+
         // open the menu
         menu.open();
 
